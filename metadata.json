@@ -1,0 +1,6 @@
+{
+  "name": "USB-TraceLab: USB & ECU Protocol Workbench",
+  "description": "Eigenständiges Analyse- und Reverse-Engineering-Tool für USB-Geräte, URB-Pakete und Steuergeräte-Diagnoseprotokolle mit Hardware-Anbindung, Simulator und KI-Protokollanalyse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
